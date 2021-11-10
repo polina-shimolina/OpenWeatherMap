@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T01:31:14.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Z5D2Zn8Sdo5xTZ288qy4" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T01:31:25.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zlVwOclh-9H-0gOCw64j" version="15.7.1" type="github">
   <diagram id="nbO-xUztNOdvrbBRGyaU" name="Page-1">
     <mxGraphModel dx="1018" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             <mxPoint x="250" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkOpAmFY5jFsptfe66Um-39" value="Номер" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="AkOpAmFY5jFsptfe66Um-39" value="Номер /KEY/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AkOpAmFY5jFsptfe66Um-40" value="Дата" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
